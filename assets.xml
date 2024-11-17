@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+    <asset>
+        <id>1</id>
+        <name>Laptop</name>
+        <model>Dell Inspiron 15</model>
+        <quantity>10</quantity>
+        <brand>Dell</brand>
+        <price>50000</price>
+    </asset>
+    <asset>
+        <id>2</id>
+        <name>Printer</name>
+        <model>HP LaserJet Pro</model>
+        <quantity>5</quantity>
+        <brand>HP</brand>
+        <price>12000</price>
+    </asset>
+    <asset>
+        <id>3</id>
+        <name>Projector</name>
+        <model>Epson EB-X41</model>
+        <quantity>3</quantity>
+        <brand>Epson</brand>
+        <price>35000</price>
+    </asset>
+    <asset>
+        <id>4</id>
+        <name>Chair</name>
+        <model>Ergonomic Office Chair</model>
+        <quantity>50</quantity>
+        <brand>Ikea</brand>
+        <price>8000</price>
+    </asset>
+    <asset>
+        <id>5</id>
+        <name>Desk</name>
+        <model>Wooden Study Desk</model>
+        <quantity>30</quantity>
+        <brand>Ikea</brand>
+        <price>15000</price>
+    </asset>
+    <asset>
+        <id>6</id>
+        <name>Monitor</name>
+        <model>Samsung 24-inch Curved</model>
+        <quantity>12</quantity>
+        <brand>Samsung</brand>
+        <price>17000</price>
+    </asset>
+    <asset>
+        <id>7</id>
+        <name>Keyboard</name>
+        <model>Logitech MX Keys</model>
+        <quantity>20</quantity>
+        <brand>Logitech</brand>
+        <price>8500</price>
+    </asset>
+    <asset>
+        <id>8</id>
+        <name>Mouse</name>
+        <model>Logitech MX Master 3</model>
+        <quantity>25</quantity>
+        <brand>Logitech</brand>
+        <price>7500</price>
+    </asset>
+    <asset>
+        <id>9</id>
+        <name>Tablet</name>
+        <model>Apple iPad Air</model>
+        <quantity>8</quantity>
+        <brand>Apple</brand>
+        <price>55000</price>
+    </asset>
+    <asset>
+        <id>10</id>
+        <name>Phone</name>
+        <model>Samsung Galaxy S21</model>
+        <quantity>6</quantity>
+        <brand>Samsung</brand>
+        <price>60000</price>
+    </asset>
+    <asset>
+        <id>11</id>
+        <name>Camera</name>
+        <model>Canon EOS 1500D</model>
+        <quantity>4</quantity>
+        <brand>Canon</brand>
+        <price>45000</price>
+    </asset>
+    <asset>
+        <id>12</id>
+        <name>Server</name>
+        <model>Dell PowerEdge T40</model>
+        <quantity>2</quantity>
+        <brand>Dell</brand>
+        <price>85000</price>
+    </asset>
+    <asset>
+        <id>13</id>
+        <name>Router</name>
+        <model>TP-Link Archer AX50</model>
+        <quantity>10</quantity>
+        <brand>TP-Link</brand>
+        <price>12000</price>
+    </asset>
+    <asset>
+        <id>14</id>
+        <name>Projector Screen</name>
+        <model>Elite Screens Manual B</model>
+        <quantity>5</quantity>
+        <brand>Elite Screens</brand>
+        <price>7000</price>
+    </asset>
+    <asset>
+        <id>15</id>
+        <name>Whiteboard</name>
+        <model>Magnetic Dry-Erase Board</model>
+        <quantity>15</quantity>
+        <brand>OfficeWorks</brand>
+        <price>5000</price>
+    </asset>
+
+    <tracking>
+        <id>1</id>
+        <assetName>KeyBoard</assetName>
+        <personAssigned>Yash Mishra</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>2</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>Pranav Sahu</personAssigned>
+        <status1>Yes</status1>
+        <status2>Yes</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>3</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>Prateek Gupta</personAssigned>
+        <status1>No</status1>
+        <status2>Yes</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>4</id>
+        <assetName>Desktop</assetName>
+        <personAssigned>Aniket</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>5</id>
+        <assetName>Chair</assetName>
+        <personAssigned>OP Vyas</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>6</id>
+        <assetName>KeyBoard</assetName>
+        <personAssigned>Krish</personAssigned>
+        <status1>No</status1>
+        <status2>Yes</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>7</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>Ashutosh</personAssigned>
+        <status1>Yes</status1>
+        <status2>Yes</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>8</id>
+        <assetName>Desktop</assetName>
+        <personAssigned>Deepak</personAssigned>
+        <status1>No</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>9</id>
+        <assetName>Chair</assetName>
+        <personAssigned>Aniket</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>10</id>
+        <assetName>KeyBoard</assetName>
+        <personAssigned>OP Vyas</personAssigned>
+        <status1>Yes</status1>
+        <status2>Yes</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>11</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>Krish</personAssigned>
+        <status1>No</status1>
+        <status2>Yes</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>12</id>
+        <assetName>Desktop</assetName>
+        <personAssigned>Ashutosh</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>13</id>
+        <assetName>Chair</assetName>
+        <personAssigned>Deepak</personAssigned>
+        <status1>Yes</status1>
+        <status2>Yes</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>14</id>
+        <assetName>KeyBoard</assetName>
+        <personAssigned>Aniket</personAssigned>
+        <status1>No</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>15</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>OP Vyas</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>16</id>
+        <assetName>Chair</assetName>
+        <personAssigned>Ashutosh</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>17</id>
+        <assetName>Desktop</assetName>
+        <personAssigned>Krish</personAssigned>
+        <status1>No</status1>
+        <status2>Yes</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>18</id>
+        <assetName>KeyBoard</assetName>
+        <personAssigned>Deepak</personAssigned>
+        <status1>Yes</status1>
+        <status2>Yes</status2>
+        <status3>No</status3>
+    </tracking>
+    <tracking>
+        <id>19</id>
+        <assetName>Mouse</assetName>
+        <personAssigned>Aniket</personAssigned>
+        <status1>No</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+    <tracking>
+        <id>20</id>
+        <assetName>Chair</assetName>
+        <personAssigned>OP Vyas</personAssigned>
+        <status1>Yes</status1>
+        <status2>No</status2>
+        <status3>Yes</status3>
+    </tracking>
+</assets>
