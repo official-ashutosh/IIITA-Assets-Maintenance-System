@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/flatlaf-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/flatlaf-extras-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/mongodb-driver-sync-4.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/bson-4.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/commons-lang3-3.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/hsqldb-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/ucanload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/ucanaccess-5.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../TRY/Db/jackcess-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/bson-4.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/commons-lang3-3.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/flatlaf-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/flatlaf-extras-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/hsqldb-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/jackcess-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/mongodb-driver-sync-4.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/ucanaccess-5.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../OOM Dep/ucanload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/commons-lang3-3.8.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/hsqldb-2.5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/ucanaccess-5.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/ucanload.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/Db/jackcess-3.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/bson-4.10.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/flatlaf-3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/flatlaf-extras-3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/mongodb-driver-sync-4.10.0.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" />
+          <root url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" />
+          <root url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" />
+          <root url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul/OOM1/src" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Cheat Sheet/HelpFul" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/OneDrive/Documents/OOM Dep" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/OneDrive/Documents/OOM Dep" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
